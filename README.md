@@ -2,6 +2,7 @@
 ![International_debt_Statistics](https://user-images.githubusercontent.com/120785395/236210523-866c744d-ab70-4d9a-8a6e-d9fa8704116a.PNG)
 
 # International Debt Statistics Visualisation 
+
 # Problem Statement :
           It's not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is           one costly ingredient required for a country's citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries. In this           project, you are going to analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed           by developing countries across several categories. You are going to find the answers to
 
